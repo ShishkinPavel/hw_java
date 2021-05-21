@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cz.muni.fi.pb162.hw02.impl.ApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.155 s - in cz.muni.fi.pb162.hw02.impl.ApplicationTest

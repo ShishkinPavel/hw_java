@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw02-text/src/main/java/cz/muni/fi/pb162/hw02/impl/Application.java">
+<error line="84" column="69" severity="error" message="&apos;}&apos; at column 69 should be on the same line as the next part of a multi-block statement." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw02-text/src/main/java/cz/muni/fi/pb162/hw02/impl/Duplicates.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw02-text/src/main/java/cz/muni/fi/pb162/hw02/impl/Sizes.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw02-text/src/main/java/cz/muni/fi/pb162/hw02/impl/Similar.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw02-text/src/main/java/cz/muni/fi/pb162/hw02/impl/Unique.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw02-text/src/main/java/cz/muni/fi/pb162/hw02/cmd/CommandLine.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw02-text/src/main/java/cz/muni/fi/pb162/hw02/cmd/TerminalOperationConverter.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw02-text/src/main/java/cz/muni/fi/pb162/hw02/TerminalOperation.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw02-text/src/main/java/cz/muni/fi/pb162/hw02/FileLoader.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw02-text/src/main/java/cz/muni/fi/pb162/hw02/Messages.java">
+</file>
+</checkstyle>

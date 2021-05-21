@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw01-ciphers/src/main/java/cz/muni/fi/pb162/hw01/impl/Application.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw01-ciphers/src/main/java/cz/muni/fi/pb162/hw01/impl/ciphers/Ceasar.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw01-ciphers/src/main/java/cz/muni/fi/pb162/hw01/impl/ciphers/Cipher.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw01-ciphers/src/main/java/cz/muni/fi/pb162/hw01/impl/ciphers/Vigenere.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw01-ciphers/src/main/java/cz/muni/fi/pb162/hw01/impl/ciphers/Morse.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw01-ciphers/src/main/java/cz/muni/fi/pb162/hw01/cmd/CipherTypeConverter.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw01-ciphers/src/main/java/cz/muni/fi/pb162/hw01/cmd/CommandLine.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw01-ciphers/src/main/java/cz/muni/fi/pb162/hw01/cmd/OperationConverter.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw01-ciphers/src/main/java/cz/muni/fi/pb162/hw01/CipherType.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw01-ciphers/src/main/java/cz/muni/fi/pb162/hw01/Operation.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw01-ciphers/src/main/java/cz/muni/fi/pb162/hw01/Utils.java">
+</file>
+</checkstyle>
