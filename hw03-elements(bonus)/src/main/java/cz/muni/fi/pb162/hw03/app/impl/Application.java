@@ -98,13 +98,15 @@ public final class Application {
         if(this.year!=null){
             List<Element> elementList = new ElementCreator(result).findByYear(this.year);
             System.out.println(new TableFormatter().format(elementList));
+        } else {
+            if (optionalElement.isPresent()) {
+                System.out.println(new TableFormatter().format(optionalElement.get()));
+            }else {
+                System.out.println(Messages.NO_ELEMENT_FOUND);
+            }
+        }
         }
 
-        if (optionalElement.isPresent()) {
-            System.out.println(new TableFormatter().format(optionalElement.get()));
-        }else {
-            System.out.println(Messages.NO_ELEMENT_FOUND);
-        }
-    }
+
 
 }
