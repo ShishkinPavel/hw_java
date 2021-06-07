@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw03-elements/src/main/java/cz/muni/fi/pb162/hw03/app/impl/Element.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw03-elements/src/main/java/cz/muni/fi/pb162/hw03/app/impl/Application.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw03-elements/src/main/java/cz/muni/fi/pb162/hw03/app/impl/ElementCreator.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw03-elements/src/main/java/cz/muni/fi/pb162/hw03/app/cmd/CommandLine.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw03-elements/src/main/java/cz/muni/fi/pb162/hw03/app/ElementLibrary.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw03-elements/src/main/java/cz/muni/fi/pb162/hw03/app/output/ElementFormatter.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw03-elements/src/main/java/cz/muni/fi/pb162/hw03/app/output/Messages.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-hw03-elements/src/main/java/cz/muni/fi/pb162/hw03/app/output/TableFormatter.java">
+</file>
+</checkstyle>
